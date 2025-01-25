@@ -13,13 +13,18 @@ Tenho experiência com as seguintes bibliotecas, frameworks e tecnologias:
 
 ### **Desenvolvimento de APIs**
 - **Frameworks Backend:** `Flask`, `FastAPI`, `Django REST Framework`  
-- **Bancos de Dados Relacionais:** `PostgreSQL`, `SQLite`  
-- **Bancos de Dados NoSQL:** `MongoDB`
+- **Bancos de Dados:** `PostgreSQL`, `MongoDB`
+
+### **Frontend**
+- **Linguagens e Tecnologias:** `HTML`, `CSS`, `JavaScript`, `Tailwind CSS`
+- **Frameworks e Bibliotecas:** `React`
+- **Design Responsivo:** Criação de interfaces adaptáveis para diferentes dispositivos e tamanhos de tela
+- **Integração com APIs:** Consumo e integração de APIs RESTful no frontend
 
 ### **Outras Tecnologias**
 - **Controle de Versão e CI/CD:** `Git`, `GitHub Actions`, `Ansible`, `Terraform`  
-- **Ferramentas de Deploy e Containerização:** `Docker`, `Kubernetes`  
-- **Infraestrutura na Nuvem:** `AWS` (S3, EC2, RDS), `GCP`
+- **Ferramentas de Deploy e Containerização:** `Docker`
+- **Infraestrutura na Nuvem:** `AWS`, `GCP`
 
 ## Projetos Recentes
 - [Projeto 1](https://github.com/IgorAlanAlbuquerque/mlproject-students-performance) - Se trata de um projeto completo em que foi implementado pipeline de treinamento e predição de um modelo de predição desempenho de estudantes no teste de matematica com base em um grupo features. O deploy foi feito usando AWS elastic beanstalk
