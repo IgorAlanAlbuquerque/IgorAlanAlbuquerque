@@ -29,7 +29,7 @@ Tenho experiência com as seguintes bibliotecas, frameworks e tecnologias:
 
 ## Projetos em Destaque
 
-- [Projeto 1](https://github.com/IgorAlanAlbuquerque/java-job-portal) - Job Portal - API Cloud-Native para Plataforma de Vagas - Arquitetei e desenvolvi o backend de uma plataforma de vagas, implementando uma API RESTful segura e escalável com Java e Spring Boot. O sistema adota uma arquitetura moderna orientada a serviços, utilizando persistência poliglota: PostgreSQL como fonte da verdade, e Elasticsearch para buscas textuais de alta performance. A comunicação assíncrona para tarefas como a indexação de vagas é gerenciada pelo RabbitMQ. A segurança é baseada em tokens JWT, e toda a infraestrutura é containerizada com Docker e orquestrada com Kubernetes e Tilt, criando um ambiente de desenvolvimento cloud-native.
+- [Job Portal](https://github.com/IgorAlanAlbuquerque/java-job-portal) - API Cloud-Native para Plataforma de Vagas - Arquitetei e desenvolvi o backend de uma plataforma de vagas, implementando uma API RESTful segura e escalável com Java e Spring Boot. O sistema adota uma arquitetura moderna orientada a serviços, utilizando persistência poliglota: PostgreSQL como fonte da verdade, e Elasticsearch para buscas textuais de alta performance. A comunicação assíncrona para tarefas como a indexação de vagas é gerenciada pelo RabbitMQ. A segurança é baseada em tokens JWT, e toda a infraestrutura é containerizada com Docker e orquestrada com Kubernetes e Tilt, criando um ambiente de desenvolvimento cloud-native.
 
 ## Entre em Contato
 - 🌐 [Meu Portfólio]Em construção
