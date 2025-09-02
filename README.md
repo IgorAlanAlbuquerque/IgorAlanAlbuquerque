@@ -82,9 +82,13 @@ Tenho experiência com as seguintes bibliotecas, frameworks e tecnologias:
 
 
 ## Projetos em Destaque
-- [Job Portal](https://github.com/IgorAlanAlbuquerque/java-job-portal) - API Cloud-Native para Plataforma de Vagas  
+- [Job Portal](https://github.com/IgorAlanAlbuquerque/java-job-portal) - **API Cloud-Native para Plataforma de Vagas**
   Arquitetei e desenvolvi o backend de uma plataforma de vagas, com **Java + Spring Boot**, **persistência poliglota** (PostgreSQL + Elasticsearch), mensageria com **RabbitMQ** e segurança baseada em **JWT**.  
-  A infraestrutura é totalmente containerizada (**Docker + Kubernetes + Tilt**). 
+  A infraestrutura é totalmente containerizada (**Docker + Kubernetes + Tilt**).
+- [SMSODestruction](https://github.com/IgorAlanAlbuquerque/SMSO---Destruction) - **Mod de reformulação da escola de Destruction em Skyrim**
+  Mod para *Skyrim Special Edition*, reescrevendo a escola de Destruction com um sistema **dinâmico de gauges elementais** e **reações mágicas estratégicas**. Construído em **C++
+  com SKSE** para máximo desempenho, adiciona 39 feitiços reimaginados, Perks reformulados, cooldowns, long-cast animations e casting colaborativo entre NPCs.
+  
 
 
 ## Entre em Contato
