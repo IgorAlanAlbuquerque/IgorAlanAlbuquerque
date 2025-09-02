@@ -46,7 +46,6 @@ Tenho experiência com as seguintes bibliotecas, frameworks e tecnologias:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-007ACC?style=for-the-badge&logo=xgboost&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 ![PySpark](https://img.shields.io/badge/PySpark-E25D27?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
